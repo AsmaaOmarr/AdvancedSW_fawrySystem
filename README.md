@@ -2,12 +2,15 @@
 Prerequisite:
 1-We Use Intellj IDE 
 2-All Steps We Use To Make This Project Were Taken From (ENG: Ahmed Hassan 's Reference Video)
-To Open Project 
+ 
+ To Open Project 
   1- Open Intellj
   2- From File -> Open -> project path on your pc 
   3- Run Project 
-  4- Open APIs Collection On Postman (in project Ziped file)
-  5- Run each API As follow:
+  4- open link of APIs collection 
+  5- Export collection on your pc
+  6- import collection on postman
+  7- Run each API As follow:
        
 
 Most Complex Example
